@@ -6,6 +6,10 @@ date: 11th November, 2024
 
 # Introduction to Google Summer of Code (GSoC)
 
+## Credits
+
+Some content in these slides have been taken by slides made by Kshitijaa Jaglan and Varshita Kolipaka.
+
 ---
 
 # What is GSoC?
@@ -95,6 +99,22 @@ All of these are spread over roughly 10-12 weeks (subject to change)
 
 ---
 
+# Choosing an Organization
+
+## Interact, give and get help
+
+- Be active on communication channels and interact with your mentors and other contributors.
+- Different people have different skills- they can help you and vice versa
+- Discuss your ideas!
+- Be respectful, but don’t address people by Sir/Ma’am. Title (`Prof./Dr./Ms./Mr. <Surname>`) is OK. 
+
+## BUT, don't be spammy
+
+- There is a thin like between being active and spamming endlessly.
+- Be aware that Open Source is something people do voluntarily - respect their time.
+
+---
+
 # Writing a Strong Proposal
 
 Your proposal is key to being selected. Here’s a structure to consider:
@@ -113,6 +133,15 @@ Your proposal is key to being selected. Here’s a structure to consider:
 
 ---
 
+# Selection process
+
+This is organisation dependent.
+- Just based on the proposal (most common)
+- Interviews
+- Tasks
+
+---
+
 # Getting Started with Open Source
 
 If you’re new to open source:
@@ -122,11 +151,25 @@ If you’re new to open source:
 
 ---
 
+# Other programs
+
+- Outreachy
+- Google Season of Docs
+- Major League Hacking (MLH) fellowship
+- GirlScript Summer of Code
+- LFX Mentorship (Linux Foundation)
+- and many more.....
+
+---
+
 # Resources
 
 - **Official GSoC Guide**: [Google Summer of Code Guide](https://google.github.io/gsocguides/student/)
 - **Open Source Contribution Platforms**: [GitHub](https://github.com/), [GitLab](https://gitlab.com/)
 - **GSoC Archive**: Check past projects for inspiration.
+- **Sample Proposals**:
+    - Praneeth's Proposal: https://github.com/PraneethJain/GSoC/blob/main/proposal.pdf
+    - Ankith's Proposal: https://iiitaphyd-my.sharepoint.com/:b:/g/personal/ankith_pai_research_iiit_ac_in/EZKecbIA8hpGhfMsq0TyQgQBNKlNoEvrGT5er9iphOA_Ng?e=gCBfW3
 
 ---
 
