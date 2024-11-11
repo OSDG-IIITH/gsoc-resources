@@ -95,7 +95,7 @@ All of these are spread over roughly 10-12 weeks (subject to change)
 - Check out the list of participating organizations on the [GSoC website](https://summerofcode.withgoogle.com/).
 
 ## Read Project Ideas
-- Each organization lists project ideas, but you can also propose your own ideas aligned with the organization’s goals.
+- Each organization lists project ideas, but you can also propose your own ideas aligned with the organization's goals.
 
 ---
 
@@ -106,7 +106,7 @@ All of these are spread over roughly 10-12 weeks (subject to change)
 - Be active on communication channels and interact with your mentors and other contributors.
 - Different people have different skills- they can help you and vice versa
 - Discuss your ideas!
-- Be respectful, but don’t address people by Sir/Ma’am. Title (`Prof./Dr./Ms./Mr. <Surname>`) is OK. 
+- Be respectful, but don't address people by Sir/Ma'am. Title (`Prof./Dr./Ms./Mr. <Surname>`) is OK. 
 
 ## BUT, don't be spammy
 
@@ -117,14 +117,14 @@ All of these are spread over roughly 10-12 weeks (subject to change)
 
 # Writing a Strong Proposal
 
-Your proposal is key to being selected. Here’s a structure to consider:
+Your proposal is key to being selected. Here's a structure to consider:
 
 - **Introduction**: Briefly introduce yourself and your background.
 - **Project Goals**: Clearly define what the project aims to achieve.
 - **Implementation Plan**: Break down your approach into phases or milestones.
 - **Timeline**: Include a week-by-week schedule with achievable goals.
 - **About You**: Share your technical skills and past experiences.
-- **Why This Project?**: Explain why you chose this project and how you’ll add value.
+- **Why This Project?**: Explain why you chose this project and how you'll add value.
 
 ## Tips
 - Keep it concise and focused.
@@ -144,10 +144,10 @@ This is organisation dependent.
 
 # Getting Started with Open Source
 
-If you’re new to open source:
+If you're new to open source:
 - **Contribute to Small Issues**: Start with “good first issue” labels.
-- **Read Documentation**: Understand the organization’s guidelines and contribution workflow.
-- **Ask for Help**: Most open-source communities are supportive; don’t hesitate to reach out on forums or chats.
+- **Read Documentation**: Understand the organization's guidelines and contribution workflow.
+- **Ask for Help**: Most open-source communities are supportive; don't hesitate to reach out on forums or chats.
 
 ---
 
@@ -175,7 +175,10 @@ Ujjwal Shekhar
 
 # Resources
 
+- **GSoC landing page**: https://summerofcode.withgoogle.com/
+- **GSoC FAQ**: https://developers.google.com/open-source/gsoc/faq
 - **Official GSoC Guide**: [Google Summer of Code Guide](https://google.github.io/gsocguides/student/)
+- **GSoC organisations page**: [Official](https://summerofcode.withgoogle.com/programs/2024/organizations) and [Third-party](https://www.gsocorganizations.dev/)
 - **Open Source Contribution Platforms**: [GitHub](https://github.com/), [GitLab](https://gitlab.com/)
 - **GSoC Archive**: Check past projects for inspiration.
 - **Sample Proposals**:
@@ -194,7 +197,7 @@ We're here to help! Feel free to ask questions about:
 
 ---
 
-Thank you for joining this session! We hope it gives you a solid foundation to begin your GSoC journey. Let’s make this summer a productive and impactful one with open source!
+Thank you for joining this session! We hope it gives you a solid foundation to begin your GSoC journey. Let's make this summer a productive and impactful one with open source!
 
 *Good luck!*
 
