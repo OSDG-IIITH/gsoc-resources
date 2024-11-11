@@ -162,20 +162,31 @@ If you’re new to open source:
 
 ---
 
+# Q/A
+
+## What if I get selected for multiple projects?
+
+> it's a case-by-case basis, and either Google or one of the mentors from the competing orgs will ask you to give preference.
+> I usually won't suggest giving a preference at any point since that is unnecessary. Google will pick one for you based on which org ranked you higher so you don't need to give out prefs unless they really insist.
+
+Ujjwal Shekhar
+
+---
+
 # Resources
 
 - **Official GSoC Guide**: [Google Summer of Code Guide](https://google.github.io/gsocguides/student/)
 - **Open Source Contribution Platforms**: [GitHub](https://github.com/), [GitLab](https://gitlab.com/)
 - **GSoC Archive**: Check past projects for inspiration.
 - **Sample Proposals**:
-    - Praneeth's Proposal: https://github.com/PraneethJain/GSoC/blob/main/proposal.pdf
-    - Ankith's Proposal: https://iiitaphyd-my.sharepoint.com/:b:/g/personal/ankith_pai_research_iiit_ac_in/EZKecbIA8hpGhfMsq0TyQgQBNKlNoEvrGT5er9iphOA_Ng?e=gCBfW3
+    - Ankith Pai, Praneeth Jain, Tanish Taneja, and Ujjwal Shekhar 
+    - https://iiitaphyd-my.sharepoint.com/:f:/g/personal/osdg_students_iiit_ac_in/EmJCCImgBp9MoFh-voFvu78BackSKEPVgLqFxBplKfSKZw?e=GPzfx8
 
 ---
 
 # Q&A and Further Guidance
 
-We’re here to help! Feel free to ask questions about:
+We're here to help! Feel free to ask questions about:
 - The application process.
 - Choosing an organization and project.
 - Writing your proposal.
